@@ -1,4 +1,4 @@
-package chicken;
+package CountChicken;
 
 public class chickenRabbit {
 

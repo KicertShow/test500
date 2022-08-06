@@ -1,4 +1,4 @@
-package Dead;
+package ＵunlimitedDead;
 
 public class deaditerator {
 

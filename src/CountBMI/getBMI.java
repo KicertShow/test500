@@ -1,4 +1,4 @@
-package secondBMI;
+package CountBMI;
 
 public class getBMI {
 

@@ -1,4 +1,4 @@
-package threePhone;
+package byPhonePay;
 
 import java.util.Scanner;
 

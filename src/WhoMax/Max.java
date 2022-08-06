@@ -1,4 +1,4 @@
-package firstMax;
+package WhoMax;
 
 import java.util.Scanner;
 
