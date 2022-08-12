@@ -14,11 +14,6 @@ public class aboutArray {
 
     public static void reverseArray() {
         int[] inArrays = {1, 2, 3, 3, 4, 5, 76, 1, 2, 34};
-        System.out.println(inArrays[inArrays.length - 1]);
-        System.out.println(inArrays.length);
-        System.out.println("終止線" + inArrays[2]);
-
-
         for (int aa = inArrays.length - 1; aa >= 0; aa--) {
             System.out.println(inArrays[aa]);
         }
